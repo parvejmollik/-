@@ -1,2 +1,14 @@
-# -
-A satirical top-down browser game about a battery auto-rickshaw in Dhaka traffic. Built with vanilla JS and HTML5 Canvas, mobile friendly, no install.
+# রাস্তা কার?
+
+ঢাকার রাস্তায় একটি ব্যাটারি অটো চালান। গাড়ি, বাইক আর ঠেলাগাড়িতে ধাক্কা দিয়ে "জাতীয় ক্ষতি" বাড়ান, জনতা ধরার আগেই পালান, আর বাস-ট্রাক থেকে দূরে থাকুন।
+
+## খেলার নিয়ম
+- W / ↑ চালান, S / ↓ ব্রেক, A D / ← → ঘোরান
+- Shift / Space টান, H হর্ন, M শব্দ
+- হলুদ দাগে থেমে চার্জ নিন, গোলাপি দাগে সার্জেন্টকে চা-পানি দিন
+
+## চালানোর উপায়
+`index.html` ব্রাউজারে খুলুন, অথবা যেকোনো static hosting-এ আপলোড করুন।
+
+## লাইসেন্স
+MIT
